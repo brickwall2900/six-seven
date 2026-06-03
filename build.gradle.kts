@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "io.github.brickwall2900"
-version = "6.7"
+version = "6.7.1"
 description = "six seven"
 
 java {
