@@ -1,6 +1,6 @@
 # SixSeven
 
-![Maven Central Version](https://img.shields.io/maven-central/v/io.github.brickwall2900/six-seven)
+[![Sonatype Central](https://maven-badges.sml.io/sonatype-central/io.github.brickwall2900/six-seven/badge.svg)](https://maven-badges.sml.io/sonatype-central/io.github.brickwall2900/six-seven/)
 
 
 It's 67, in form of a Java class.
